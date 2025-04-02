@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "start": "deno run -A main.ts",
+    "sys-info": "deno run -A npm:envinfo --system --binaries && deno -v"
+  },
+  "imports": {
+    "@kazupon/gunshi": "jsr:@kazupon/gunshi@^0.13.0",
+    "@std/assert": "jsr:@std/assert@1"
+  }
+}
