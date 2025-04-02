@@ -4,7 +4,8 @@
     "jsr:@kazupon/gunshi@0.13": "0.13.0",
     "jsr:@std/assert@1": "1.0.12",
     "jsr:@std/internal@^1.0.6": "1.0.6",
-    "npm:args-tokens@0.14": "0.14.0"
+    "npm:args-tokens@0.14": "0.14.0",
+    "npm:envinfo@*": "7.14.0"
   },
   "jsr": {
     "@kazupon/gunshi@0.13.0": {
@@ -26,6 +27,9 @@
   "npm": {
     "args-tokens@0.14.0": {
       "integrity": "sha512-hfMDZ3CNKFt2btfachKnxazNMfzhfyD8t6WE9hVupGcfwFTdN37k9AEfY3eXJ8VdhVsmJCaV6dlKjEYpo4TAIg=="
+    },
+    "envinfo@7.14.0": {
+      "integrity": "sha512-CO40UI41xDQzhLB1hWyqUKgFhs250pNcGbyGKe1l/e4FSaI/+YE4IMG76GDt0In67WLPACIITC+sOi08x4wIvg=="
     }
   },
   "workspace": {
