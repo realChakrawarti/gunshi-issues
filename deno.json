@@ -6,6 +6,7 @@
   "imports": {
     "@kazupon/gunshi": "jsr:@kazupon/gunshi@^0.14.0",
     "@std/assert": "jsr:@std/assert@1",
+    "@std/fmt": "jsr:@std/fmt@^1.0.6",
     "envinfo": "npm:envinfo@^7.14.0"
   }
 }
